@@ -1,0 +1,15 @@
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\bin\Debug\net6.0\ConsoleApp134.exe
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\bin\Debug\net6.0\ConsoleApp134.deps.json
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\bin\Debug\net6.0\ConsoleApp134.runtimeconfig.json
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\bin\Debug\net6.0\ConsoleApp134.dll
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\bin\Debug\net6.0\ConsoleApp134.pdb
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.csproj.AssemblyReference.cache
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.AssemblyInfoInputs.cache
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.AssemblyInfo.cs
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.csproj.CoreCompileInputs.cache
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.dll
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\refint\ConsoleApp134.dll
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.pdb
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ConsoleApp134.genruntimeconfig.cache
+C:\Users\Nuriya\Documents\GitHub\deveducation\SRC\ConsoleApp134\ConsoleApp134\obj\Debug\net6.0\ref\ConsoleApp134.dll

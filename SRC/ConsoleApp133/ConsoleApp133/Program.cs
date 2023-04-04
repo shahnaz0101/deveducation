@@ -1,61 +1,36 @@
 ﻿using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp133
 {    
     public class Program
     {
-        static void Main(string[] args)
-        {
-            Rectangle rectangle = new Rectangle();
-            rectangle.CalculateArea();
-            Convert.ToInt32(Console.ReadLine());
-        }
-    }
-    public class Shape
-    {
-        public double Area { get; set; }
-    }
+        static void Main(string[]args)
 
-    public class Rectangle : Shape
-    {
-        
-        public int Length {get; set; }
-        public int Width { get; set; }
-        public void CalculateArea()
-        {
-            Area = Length  * Width;
+        {           
+            
+            Product products = new Product();
+            products.ProName = "Phone";
+            products.ProPrice = 800;
+            products.DateofPro = 2023;
+            
+            products.ProName = "Printer";
+            products.ProPrice = 1200 + '$';
+            products.DateofPro = 2019;
+            
+            
+    
         }
     }
-    public class Circle : Shape
+    
+    public class Product
     {
-        public int Radius { get; set; }
-
-        public void CalculateArea()
-        {
-            Area = Math.PI * Radius;
-        }
+        public string ProName { get; set; }
+        public int ProPrice { get; set; }
+        public int DateofPro { get; set; }
     }
-    public class Trapezoid : Shape
+    public class Store
     {
-        public int Length1 { get; set; }
-        public int Length2 { get; set; }
-        public int Height { get; set; }
-        public void CalculateArea()
-        {
-            Area = (Length1 + Length2) / 2* Height ;
-        }
-    }
-
-    public class Animal
-    {
-             
-    }
-
-    public class Owl
-    {    
-        public void makeSound()
-        {
-          
-        }
+        public Product[] Products { get; set; }
     }
 }
