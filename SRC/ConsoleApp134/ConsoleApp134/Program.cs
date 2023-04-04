@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System.IO.Pipes;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp134
 {
@@ -6,23 +7,8 @@ namespace ConsoleApp134
     {
         static void Main(string[] array)
         {
-
-            char[] charArray = new char[3];
-
-            for(int i = 0; i < charArray.Length; i++)
-            {
-               charArray[i] = Convert.ToChar(Console.ReadLine());
-            }
-
-            Sorter sorter = new Sorter();
-            sorter.Sort(charArray);
-
-
-
-            for(int i = 0; i < charArray.Length; i++)
-            {
-                Console.WriteLine(charArray[i]);
-            }
+            Hotel hotel = new Hotel();
+            hotel.AddClient();
            
           
         }
