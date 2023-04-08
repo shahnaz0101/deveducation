@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nuriya\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj": {}
+    "C:\\Users\\User Windows 10 Home\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nuriya\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj": {
+    "C:\\Users\\User Windows 10 Home\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nuriya\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj",
+        "projectUniqueName": "C:\\Users\\User Windows 10 Home\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj",
         "projectName": "ConsoleApp134",
-        "projectPath": "C:\\Users\\Nuriya\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj",
-        "packagesPath": "C:\\Users\\Nuriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nuriya\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\obj\\",
+        "projectPath": "C:\\Users\\User Windows 10 Home\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\ConsoleApp134.csproj",
+        "packagesPath": "C:\\Users\\User Windows 10 Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User Windows 10 Home\\Documents\\GitHub\\deveducation\\SRC\\ConsoleApp134\\ConsoleApp134\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nuriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User Windows 10 Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
