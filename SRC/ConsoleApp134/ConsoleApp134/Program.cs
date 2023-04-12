@@ -3,22 +3,36 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp134
 {
-    internal class Program
+    internal class SortingString
     {
-        static void Main(string[] array)
+        public static void Main(string[] args)
         {
-            Hotel hotel = new Hotel();
-            hotel.AddClient();
-           
-          
-        }
-    }
+            string[] values = { "Samaya", "Vugar", "Novruz", "Narmina", "Edward" };
 
-    public class Sorter
+            foreach (string value in values)
+            {
+                Console.Write(value + ' ');
+            }
+            Array.Sort(values);
+            Console.WriteLine("Sorted; ");
+            foreach (string value in values)
+            {
+                Console.Write(value + ' ');
+            }
+            Console.WriteLine();
+        }
+
+    }
+    public class Program
     {
-        public int[] Sort(int[] unsorted)
+        public static void Main(string[] array)
         {
+            
+          int[] Sort(int[] unsorted)
+        {
+            //int[] longsortedarray = { 3, 2, 1 };
             int[] longsortedarray = new int[unsorted.Length];
+            
             for (int i = 0; i < unsorted.Length - 1; i++)
 
             {
@@ -35,6 +49,13 @@ namespace ConsoleApp134
 
             }
             return longsortedarray;
+           
+          
+        }
+    }
+
+    public class Sorter
+    {
         }
 
         public char[] Sort(char[] unsorted)
@@ -47,8 +68,8 @@ namespace ConsoleApp134
                 {
                     int l = (int)unsorted[j];
                     int n = (int)unsorted[j + 1];
-                    
-                    if (l > n )
+
+                    if (l > n)
                     {
                         char temp = longsortedarray[j];
                         longsortedarray[j] = longsortedarray[j + 1];
